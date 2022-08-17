@@ -14,7 +14,7 @@ I'm Negin, an iOS Developer from Toronto.
 
 <br>
 
-📫 How to reach me::
+📫 How to reach me:
 
 [Twitter](https://twitter.com/idehaznigen) | [Linkedin](https://www.linkedin.com/in/negin-zahedi) | [Instagram](https://www.instagram.com/idehaznigen) | [Medium](https://medium.com/@neginzahedi) 
 
