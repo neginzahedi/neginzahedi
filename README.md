@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm Negin, an iOS Developer from Toronto.
 
-👩🏻‍💻 I'm currently learning new things about Swift and SwiftUI
+👩🏻‍💻 Learning new things about Swift and SwiftUI
 
-📱 I'm building apps for fun
+📱 Building apps for fun
 
-✍🏻 I'm sharing my learnings on social media 
+✍🏻 Sharing my learnings on social media 
 
 <br>
 
