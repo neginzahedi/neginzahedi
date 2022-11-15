@@ -9,7 +9,12 @@ I'm Negin, an iOS Developer from Toronto.
 
 <br>
 
-### Recent Articles:
+### 📱 Recent Application:
+[Chatty - SwiftUI](https://github.com/neginzahedi/chatty-swiftUI)
+
+<br>
+
+### ✍🏻 Recent Articles:
 [List - SwiftUI Tutorial](https://medium.com/@neginzahedi/list-swiftui-tutorial-50147b6efe24)
 
 <br>
