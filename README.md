@@ -15,7 +15,9 @@ I'm Negin, an iOS Developer from Toronto.
 <br>
 
 ### ✍🏻 Recent Articles:
-[List - SwiftUI Tutorial](https://medium.com/@neginzahedi/list-swiftui-tutorial-50147b6efe24)
+
+- [Exploring JSON and Codable in Swift](https://medium.com/@neginzahedi/exploring-json-and-codable-in-swift-33c7f40d6bdb)
+- [List - SwiftUI Tutorial](https://medium.com/@neginzahedi/list-swiftui-tutorial-50147b6efe24)
 
 <br>
 
