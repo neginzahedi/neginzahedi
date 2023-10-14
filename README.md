@@ -11,12 +11,13 @@ I'm Negin, an iOS Developer from Toronto.
 
 ### 📱 Published Application on App Store:
 
-[StatHnP]([https://github.com/neginzahedi/chatty-swiftUI](https://apps.apple.com/ca/app/stat-hnp/id6451318894))
+- [StatHnP](https://apps.apple.com/ca/app/stat-hnp/id6451318894)
 
 <br>
 
 ### ✍🏻 Recent Articles:
 
+- [Error Handling in Swift](https://medium.com/@neginzahedi/error-handling-in-swift-162c1968fe26)
 - [Exploring JSON and Codable in Swift](https://medium.com/@neginzahedi/exploring-json-and-codable-in-swift-33c7f40d6bdb)
 - [List - SwiftUI Tutorial](https://medium.com/@neginzahedi/list-swiftui-tutorial-50147b6efe24)
 
